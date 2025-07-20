@@ -24,7 +24,7 @@ Built using Node.js, Express, MongoDB, and Mongoose.
 ---
 
 ## Folder Structure
-
+```
 
 Backend/
 │
@@ -51,7 +51,7 @@ Backend/
 ├── package.json
 └── server.js
 
-
+```
 ---
 
 ## Getting Started
